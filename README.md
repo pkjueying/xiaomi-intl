@@ -1,2 +1,3 @@
 # xiaomi-intl
-for Xiao intl
+for XiaoMi Push  intl
+
